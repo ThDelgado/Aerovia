@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+.barra{
+    background-color: #051B54;
+}
+.logo{
+    font-family: Gill Sans;
+}
+
+.bonton1{
+    background-color: #FFFFFF33;
+}
+.img1{
+    width: 100%;
+}
+
+.info{
+    background-color: #62DAD3;
+}
+
+.boton2{
+    color:black;
+}
